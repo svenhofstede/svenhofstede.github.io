@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+    {{ partial "mobile_nav_toggle.html" . }}
+    {{ range sort .Data.Pages.ByPublishDate.Reverse }}
+      <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+    {{ end }}
+    <ul>
+</ul>
+{{ end }}
+
