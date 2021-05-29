@@ -15,7 +15,7 @@ hugo.linux
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo
 
-.DS_Store
+*.DS_Store*
 node_modules
 dist
 tmp
