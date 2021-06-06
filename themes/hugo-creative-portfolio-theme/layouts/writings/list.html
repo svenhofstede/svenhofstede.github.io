@@ -2,10 +2,13 @@
 <div class="col-xs-12 col-sm-8 col-md-9 content-column">
     {{ partial "mobile_nav_toggle.html" . }}
     {{ range .Data.Pages.GroupByDate "2006" }}
-      <h3>{{ .Key }}</h3>
+      <div class="row">
+      <p></p>
+      <h2>{{ .Key }}</h2>
       {{ range sort .Pages.ByDate.Reverse }}
         <div><a href="{{ .Permalink }}">{{ .Title }}</a></div>
       {{ end }}
+      </div>
     {{ end }}
+</div>
 {{ end }}
-
