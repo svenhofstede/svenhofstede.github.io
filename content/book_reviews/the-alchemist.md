@@ -1,6 +1,7 @@
 ---
-title: "Book review: The Alchemist"
+title: "The Alchemist"
 date: 2016-11-26
+image: "img/book_reviews/the_alchemist.jpeg"
 ---
 
 *Written by Paulo Coelho*

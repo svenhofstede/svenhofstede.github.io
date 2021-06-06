@@ -1,6 +1,7 @@
 ---
-title: "Book review: War of Art"
+title: "War of Art"
 date: 2016-12-24
+image: "img/book_reviews/war_of_art.jpeg"
 ---
 
 *Written by Steven Pressfield*

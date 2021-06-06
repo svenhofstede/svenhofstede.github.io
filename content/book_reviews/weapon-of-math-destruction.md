@@ -1,6 +1,7 @@
 ---
-title: "Book review: Weapon of Math Destruction"
+title: "Weapon of Math Destruction"
 date: 2017-02-19
+image: "img/book_reviews/weapon_math.jpeg"
 ---
 
 *Written by Cathy O’Neil*

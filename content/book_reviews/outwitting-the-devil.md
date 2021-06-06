@@ -1,6 +1,7 @@
 ---
-title: "Book review: Outwitting the Devil"
+title: "Outwitting the Devil"
 date: 2016-12-29
+image: "img/book_reviews/outwitting_the_devil.jpeg"
 ---
 
 *Written by Napoleon Hill*

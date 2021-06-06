@@ -47,12 +47,14 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "Journal"
-  url = "journal/"
-
-  [[params.navlinks]]
   name = "Writings"
   url = "writings/"
+
+  [[params.navlinks]]
+  name = "Book reviews"
+  url = "book_reviews/"
+
+
 
   [params.social]
   linkedin      = "https://www.linkedin.com/in/sven-hofstede-864a9656/"

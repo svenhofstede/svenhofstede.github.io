@@ -1,7 +1,7 @@
 ---
-title: "Book review: Be Obsessed or Be Average"
+title: "Be Obsessed or Be Average"
 date: 2016-12-17
-tags: ["test"]
+image: "img/book_reviews/be_obsessed.jpeg"
 ---
 
 *Written by Grant Cardone*
