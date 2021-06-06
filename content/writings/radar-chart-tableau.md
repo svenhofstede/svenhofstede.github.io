@@ -66,7 +66,7 @@ We are going to be plotting the values around a central point. To decide in what
 
 ![trigonometric identities](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unit_circle_angles_color.svg/720px-Unit_circle_angles_color.svg.png)
 
-![confused_cat](../images/confused_cat.PNG)
+![confused_cat](/img/writings/confused_cat.PNG)
 
 Now.. if you are a little confused; I'll explain. It's very simple, I promise. 
 
@@ -78,7 +78,7 @@ We can choose the 4 vertical and horizontal lines that pass the central point (t
 
 Once we have decided with lines we need we are only interested in the two calculations indicated for each angle.
 
-![trigo_detail](../images/trigo_detail.PNG)
+![trigo_detail](/img/writings/trigo_detail.PNG)
 
 The first part indicates what we need to multiply the **Value** by for the **X-axis**. 
 
@@ -120,7 +120,7 @@ END
 
 ### Putting it all together
 
-![radar_full](../images/radar_full.PNG)
+![radar_full](/img/writings/radar_full.PNG)
 
 1. Add **x-axis** field as **AVG** to Column shelf twice
 2. Change this to Dual Axis with synchronized axis

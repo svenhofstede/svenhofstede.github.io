@@ -277,14 +277,7 @@ I tried using OpenCV but I was not able to get the install working (Windows). I'
 
 I could also manually classify some more images so I have more data to train on. I might try that on a later date.
 
-
-```python
-
-```
-
-
-![png](../images/simpsons_color_files/simpsons_color_31_0.png)
-
+![sim_31](/img/writings/simpsons_color_files/simpsons_color_31_0.png)
 
 ## Randomness
 
@@ -324,7 +317,7 @@ plt.show()
 ```
 
 
-![png](../images/simpsons_color_files/simpsons_color_33_0.png)
+![png](/img/writings/simpsons_color_files/simpsons_color_33_0.png)
 
 
 This is me while fitting the models.
@@ -336,7 +329,7 @@ plt.show()
 ```
 
 
-![png](../images/simpsons_color_files/simpsons_color_35_0.png)
+![png](/img/writings/simpsons_color_files/simpsons_color_35_0.png)
 
 
 The model was struggling with this image. It misclassifying it as Marge. Obviously due to the blue background which made it think it was showing marge's hair
@@ -348,5 +341,5 @@ plt.show()
 ```
 
 
-![png](../images/simpsons_color_files/simpsons_color_37_0.png)
+![png](/img/writings/simpsons_color_files/simpsons_color_37_0.png)
 

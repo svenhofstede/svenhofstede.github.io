@@ -41,11 +41,11 @@ The general advice is to not be cheap on the barbell. This is your main tool and
 * Is the barbell perfectly straight?
 * Are the ends of the barbell capped or does it contain a bolt like shown below. Bolts using indicate a cheaper barbell.
 
-![lesser quality barbell]({{site.baseurl}}/images/barbell_bad.jpg)
+![lesser quality barbell](/img/writings/barbell_bad.jpg)
 
 Here's an example of a higher quality barbell which has a cap on the end. This caps makes sure no dirt can enter the inside of the sleeves. High quality barbells rely on bearings for the turning motion and any dirt could prevent these bearings from functioning properly.
 
-![eleiko.PNG]({{site.baseurl}}/images/eleiko.PNG)
+![eleiko.PNG](/img/writings/eleiko.PNG)
 
 All barbells can withstand weights up to a certain, specified limit. If you are just starting out the limits of a cheaper barbell will probably be just fine. If you are a more advanced lifter it might be necessary to check these specifications but if you are an advanced lifter I wouldn't need to be telling you this :)
 
@@ -68,7 +68,7 @@ There are many tutorials on building lifting platforms online. [This](HTTPS://ww
 
 A extra tip I can give is the use of rubber playground tiles for sound dampening. These thick but reasonably soft rubber tiles make great deadlift matting/blocks and they cushion the fall perfectly. I had problems with sound and even vibrations using the traditional stall mats and these tiles (which were dirt cheap second hand) fixed the problem entirely. 
 
-![speeltuin.jpg]({{site.baseurl}}/images/speeltuin.jpg)
+![speeltuin.jpg](/img/writings/speeltuin.jpg)
 
 #### Misc
 
@@ -80,23 +80,23 @@ A extra tip I can give is the use of rubber playground tiles for sound dampening
 
 Set up the rack
 
-![Gym First photo]({{site.baseurl}}/images/gym1.jpg)
+![Gym First photo](/img/writings/gym1.jpg)
 
 Got the flooring down. Two layers of MDF and stall mat.
 
-![mat 3]({{site.baseurl}}/images/mat3.jpg)
+![mat 3](/img/writings/mat3.jpg)
 
-![mat close up]({{site.baseurl}}/images/mat.jpg)
+![mat close up](/img/writings/mat.jpg)
 
-![mat close up 2]({{site.baseurl}}/images/mat2.jpg)
+![mat close up 2](/img/writings/mat2.jpg)
 
 Final product. Notice the use of the playground rubber tiles instead of the stall mat.
 
-![Full gym]({{site.baseurl}}/images/full2.jpg)
+![Full gym](/img/writings/full2.jpg)
 
-![Full close ]({{site.baseurl}}/images/full.jpg)
+![Full close ](/img/writings/full.jpg)
 
-![Bench]({{site.baseurl}}/images/bench.jpg)
+![Bench](/img/writings/bench.jpg)
 
-![Bands]({{site.baseurl}}/images/band weights.jpg)
+![Bands](/img/writings/band weights.jpg)
 

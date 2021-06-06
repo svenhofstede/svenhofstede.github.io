@@ -4,11 +4,11 @@ date: 2015-09-20
 ---
 
 
-![airbnb_trans.png]({{site.baseurl}}/images/airbnb_trans.png)
+![airbnb_trans.png](/img/writings/airbnb_trans.png)
  
 I find Airbnb itself to be an interesting concept. Renting out any left over space you might have in your home seems like a great way of earning some extra cash while at the same time meeting new people.
  
-![cover.PNG]({{site.baseurl}}/images/cover.jpg)
+![cover.PNG](/img/writings/cover.jpg)
  
 ## Initial datasets
  
@@ -18,11 +18,11 @@ The dataset contains information like Price, Number of Reviews and Number of day
  
 I decided to go hunting for some additional data to find possible correlations. I soon bumped into the website [nycopendata](https://nycopendata.socrata.com) which has a bunch of free datasets related to New York. One that caught my eye was [Subway Entrances](https://nycopendata.socrata.com/Transportation/Subway-Entrances/drex-xx56) data. Might there be a correlation between price/ratings and the proximity to a subway entrance?
  
-![newyork_subway_entrances.PNG]({{site.baseurl}}/images/newyork_subway_entrances.jpg)
+![newyork_subway_entrances.PNG](/img/writings/newyork_subway_entrances.jpg)
  
 I also added the location of the main tourist attractions in New York. It would be interesting to see how the proximity to these affect the price.
  
-![tourist_attraction_locations2.PNG]({{site.baseurl}}/images/tourist_attraction_locations2.jpg)
+![tourist_attraction_locations2.PNG](/img/writings/tourist_attraction_locations2.jpg)
 
 I also found datasets containing all the free WifI hotspots and even all public parking lots/garages. I didn't use these dataset in my analysis but you can find them in the Git repo if you're interested. 
  
@@ -38,7 +38,7 @@ A similar calculations was needed for the closest tourist attractions. Here I al
 
 *Disclaimer: I have never been to New York so I started with zero prior knowledge of the geo-spatial layout of New York.*
 
-![price_count_per_borough.PNG]({{site.baseurl}}/images/price_count_per_borough.PNG)
+![price_count_per_borough.PNG](/img/writings/price_count_per_borough.PNG)
 
 As expected Manhattan has the highest average price and also the most amount of listings. The majority of the famous attractions in New York (atleast as an unknowing tourist like myself) are located on Manhattan which should bump up the demand and therefore the price. 
 
