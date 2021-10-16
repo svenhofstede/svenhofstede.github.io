@@ -36,3 +36,4 @@ bin-release/
 *.air
 *.ipa
 *.apk
+/.idea
