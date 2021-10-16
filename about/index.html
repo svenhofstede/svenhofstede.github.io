@@ -22,7 +22,7 @@
 <div id=sidebar class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
 <div class=sidebar-content>
 <h1 class=sidebar-heading><a href=https://svenhofstede.com/>Sven Hofstede</a></h1>
-<p class=sidebar-p>I'm a software engineer with nearly 10 years of experience. Currently employed as Software/Data Engineer for Nike. Living and working in Belgium.</p>
+<p class=sidebar-p>I'm a Senior Software Engineer with nearly 10 years of experience. Currently employed as Senior Software Engineer for Nike. Living and working in Belgium.</p>
 <p class=sidebar-p>This webpage is mainly a journal of some cool/fun moments in my life and some writings for ramblings/thoughts.</p>
 <ul class=sidebar-menu>
 <li><a href=https://svenhofstede.com/about/>About</a></li>
@@ -52,12 +52,39 @@
 <div class=content-column-content>
 <h1>About</h1>
 <p>I&rsquo;ve been working in Software engineering and Data analytics since 2012. I&rsquo;ve worked or am working at <strong>Nike</strong>, <strong>Johnson & Johnson</strong> and <strong>Ravago</strong>. I&rsquo;ve been fortunate to be able to work in various roles during this period. Here a short summary:</p>
+<h4 id=senior-software-engineer---nike>Senior Software Engineer - Nike</h4>
+<p>Lead engineer of custom data pipeline-as-a-service solution</p>
 <ul>
-<li><strong>Data engineer</strong> - Core engineer of custom data pipeline-as-a-service solution</li>
-<li><strong>DevOps engineer</strong> - Administration of kubernetes cluster including Jenkins/Bamboo CI/CD integration & building in-house, re-usable docker images.</li>
-<li><strong>Java Developer</strong> - Software development of in-house ERP system based on Spring (boot)</li>
-<li><strong>BI consultant</strong> - Traditional BI role including design and maintanance of data warehouse and building reporting tooling using Tableau and Cognos</li>
+<li>Design and implementation of (py)spark framework, built for extensibility</li>
+<li>All data pipelines maintenance via central configuration API and CLI (Python, FastAPI).</li>
+<li>Uses Apache Airflow for scheduling of the Spark workloads</li>
+<li>Data is stored on S3, managed by Hive.</li>
+<li>Automatic export of consumption datasets to Snowflake</li>
+<li>Everything runs on self-managed, auto-scaling EKS clusters</li>
+<li>Data governance using a schema registry solution, integrated into spark runtime code for schema validation checks</li>
+<li>Implemented event system for various pipeline events to decouple external application integrations (json events sent to and made available through Kafka)</li>
+<li>Product globally adopted by internal teams.</li>
 </ul>
+<h4 id=devops-engineer---ravago>DevOps Engineer - Ravago</h4>
+<ul>
+<li>Administrator of multiple Kubernetes clusters</li>
+<li>Automation of development pipelines using Bamboo and
+Jenkins</li>
+<li>Maintenance of Docker images used for building and running
+applications in Kubernetes</li>
+<li>Set up application monitoring using Nagios</li>
+<li>Automate deployment of applications from Dev to Production</li>
+</ul>
+<h4 id=java-developer---ravago>Java Developer - Ravago</h4>
+<p>Software development of in-house ERP system based on Spring (boot)</p>
+<ul>
+<li>Development of new features of in-house ERP system based
+on Spring Boot</li>
+<li>Investigating bug reports and implementing fixes</li>
+<li>Code reviews, technical analysis and review functional analysis</li>
+</ul>
+<h4 id=bi-consultant---johnson--johnson>BI consultant - Johnson & Johnson</h4>
+<p>Traditional BI role including design and maintenance of data warehouse and building reporting tooling using Tableau and Cognos</p>
 <p>Check out my <a href=https://www.linkedin.com/in/sven-hofstede-864a9656/>LinkedIn profile</a> for more details on what exactly I worked on.</p>
 <p><img src=/img/about/about.jpeg alt=about></p>
 </div>
