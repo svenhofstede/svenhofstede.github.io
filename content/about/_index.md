@@ -29,7 +29,7 @@ Lead engineer of custom data pipeline-as-a-service solution
 Jenkins
 * Maintenance of Docker images used for building and running
 applications in Kubernetes
-* Set up application monitoring using Nagios
+* Set up application monitoring using Nagios and ELK stack
 * Automate deployment of applications from Dev to Production
 
 #### Java Developer - Ravago
