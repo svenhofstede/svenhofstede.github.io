@@ -1,9 +1,9 @@
-+++
-
-date = "2016-11-05T19:25:22+05:30"
-title = "About"
-
-+++
+---
+title: "About"
+menu:
+  main:
+    weight: 20
+---
 
 I've been working in Software engineering and Data analytics since 2012. I've worked or am working at **Nike**, **Johnson & Johnson** and **Ravago**. I've been fortunate to be able to work in various roles during this period. Here a short summary:
 
@@ -47,5 +47,3 @@ Traditional BI role including design and maintenance of data warehouse and build
 
 
 Check out my [LinkedIn profile](https://www.linkedin.com/in/sven-hofstede-864a9656/) for more details on what exactly I worked on.
-
-![about](/img/about/about.jpeg)

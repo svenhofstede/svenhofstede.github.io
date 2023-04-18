@@ -1,7 +1,6 @@
 ---
 title: "Be Obsessed or Be Average"
 date: 2016-12-17
-image: "img/book_reviews/be_obsessed.jpeg"
 ---
 
 *Written by Grant Cardone*
@@ -17,3 +16,5 @@ The book is a collection of short chapters each highlighting aspects of *being o
 Obviously the system has been working for him. He's an extremely successful business man, real-estate investor and all-round sales guru. It's therefore hard for me to deny this mentality works. I agree that being committed and certain of your goal is important. You need this to persevere through hard times. But Grant seems to take this to the extreme and I feel like extremes are rarely good. 
 
 I'd say: **Skip it**
+
+![cover](/img/book_reviews/be_obsessed.jpeg)

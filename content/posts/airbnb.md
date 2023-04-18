@@ -3,7 +3,6 @@ title: Airbnb in New York
 date: 2015-09-20
 ---
 
-
 ![airbnb_trans.png](/img/writings/airbnb_trans.png)
  
 I find Airbnb itself to be an interesting concept. Renting out any left over space you might have in your home seems like a great way of earning some extra cash while at the same time meeting new people.

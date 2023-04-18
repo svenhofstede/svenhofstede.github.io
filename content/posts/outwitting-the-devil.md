@@ -1,7 +1,6 @@
 ---
 title: "Outwitting the Devil"
 date: 2016-12-29
-image: "img/book_reviews/outwitting_the_devil.jpeg"
 ---
 
 *Written by Napoleon Hill*
@@ -19,3 +18,5 @@ Of course the use of the devil character and interview format is, however brilli
 I would also recommend listening to the audiobook version. The two characters, Napoleon Hill and the devil are two different voice actors which really bring the interview to life. 
 
 I'd say: **Definitely read it**
+
+![cover](/img/book_reviews/outwitting_the_devil.jpeg)

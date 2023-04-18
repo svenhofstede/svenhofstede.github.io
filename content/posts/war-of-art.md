@@ -1,7 +1,6 @@
 ---
 title: "War of Art"
 date: 2016-12-24
-image: "img/book_reviews/war_of_art.jpeg"
 ---
 
 *Written by Steven Pressfield*
@@ -17,3 +16,5 @@ The *pro* is near machine-like in his quest to deliver. It's about just showing 
 While reading I drew parallels with the previous book I read *Outwitting the devils* where the devil himself is the force pulling us away from creative thinking. When the devil succeeds these people are moved to the 'drifters' category where people go on through their lives as mainly consumers instead of producers.
 
 I'd say: **Read it**
+
+![cover](/img/book_reviews/war_of_art.jpeg)

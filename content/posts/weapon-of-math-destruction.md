@@ -1,7 +1,6 @@
 ---
 title: "Weapon of Math Destruction"
 date: 2017-02-19
-image: "img/book_reviews/weapon_math.jpeg"
 ---
 
 *Written by Cathy O’Neil*
@@ -13,3 +12,5 @@ In this book, Cathy describes many cases of this happening in the world right no
 The book does have a clear tendency towards the negative consequences of machine learning models. Little to no attention is given to the positive and innovative use cases that have come from these models. The books also feels a little long by the sheer number of cases she brings up. After the 10th case of biased models the message has gotten through clear enough and adding additional examples felt a little redundant. 
 
 I'd say: **Read it**
+
+![cover](/img/book_reviews/weapon_math.jpeg)
