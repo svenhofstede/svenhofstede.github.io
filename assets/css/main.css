@@ -53,6 +53,7 @@ header#banner nav ul {
 header#banner nav ul li {
     display: inline;
     margin: 0 3px;
+    padding-left: 10px;
 }
 
 header#banner nav ul li a {
