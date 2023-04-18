@@ -8,16 +8,6 @@ languageCode = "en-us"
   copyright = ""
   highlight = true
 
-  sidebarAbout = [
-    "I'm a Senior Software Engineer with nearly 10 years of experience. Currently employed as Senior Software Engineer for Nike. Living and working in Belgium.",
-    "This webpage is mainly a journal of some cool/fun moments in my life and some writings for ramblings/thoughts."
-  ]
-
-  [params.social]
-  linkedin      = "https://www.linkedin.com/in/sven-hofstede-864a9656/"
-  stackoverflow = "https://stackoverflow.com/users/4823240/sven-hofstede"
-  github        = "https://github.com/svenhofstede"
-
 [menu]
   [[menu.main]]
     identifier = "posts"
