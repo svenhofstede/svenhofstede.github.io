@@ -1,31 +1,221 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Sven Hofstede</title><link>https://svenhofstede.com/posts/</link><description>Recent content in Posts on Sven Hofstede</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://svenhofstede.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Show Your Work</title><link>https://svenhofstede.com/show-your-work/</link><pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/show-your-work/</guid><description>Written by Austin Kleon
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sven Hofstede</title>
+    <link>https://svenhofstede.com/posts/</link>
+    <description>Recent content in Posts on Sven Hofstede</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://svenhofstede.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Show Your Work</title>
+      <link>https://svenhofstede.com/show-your-work/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/show-your-work/</guid>
+      <description>Written by Austin Kleon
 I&amp;rsquo;m very much an introvert. I have a difficulty &amp;lsquo;marketing&amp;rsquo; myself by showing my work.
 This book gives a very concise introduction on the need for showing your work and also some concrete tips on how to do it. After reading it I 100% agree with the message.
-Focus on documenting instead of creating perfect content. Document your process of learning and write out your thought process.</description></item><item><title>Weapon of Math Destruction</title><link>https://svenhofstede.com/weapon-of-math-destruction/</link><pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/weapon-of-math-destruction/</guid><description>Written by Cathy O’Neil
-Machine Learning and other mathematical algorithms are more and move taking over decision making. Whether someone is given a loan or an insurance policy. If someone gets fired because of not achieving the required efficiency based on the algorithm&amp;rsquo;s requirements or if someone gets the job in the first place. If someone might continue to commit crimes if we keep them on the street. If someone is showered with expensive, for-profit college advertisements or other high-interest, predatory loans.</description></item><item><title>What I’m struggling with as a self-learner</title><link>https://svenhofstede.com/what-im-struggling-with-as-a-self-learner/</link><pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/what-im-struggling-with-as-a-self-learner/</guid><description>Pretty soon I will be starting a new job where I will be working as a Java developer. I have some professional experience writing Scala code (Spark) but this was in a different context. Moving data around is very different to application development. I&amp;rsquo;m therefore spending a couple hours each week brushing up on my programming skills and I thought it would be interesting to document the struggles I&amp;rsquo;m currently facing.</description></item><item><title>My News Diet</title><link>https://svenhofstede.com/my-news-diet/</link><pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/my-news-diet/</guid><description>I actively try to avoid any type of news/media. I have de-activated my Facebook account. I don&amp;rsquo;t read newspapers or magazines.
-Total connectivity My friend was in New Zealand a couple of months back. This is quite literally the other side of the world to where I live. While he was there an severe earthquake struck the island. According to him, he was reading about the earthquake on belgian news sites 10 minutes after it happened.</description></item><item><title>Things I should learn as a new programmer</title><link>https://svenhofstede.com/things-i-should-learn-as-a-new-programmer/</link><pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/things-i-should-learn-as-a-new-programmer/</guid><description>Algorithms &amp;amp; Data Structures There are literally limitless ways to solve any given problem. A good programmer will know the right tool for the job by using existing Algorithms and Data Structures.
+Focus on documenting instead of creating perfect content. Document your process of learning and write out your thought process.</description>
+    </item>
+    
+    <item>
+      <title>Weapon of Math Destruction</title>
+      <link>https://svenhofstede.com/weapon-of-math-destruction/</link>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/weapon-of-math-destruction/</guid>
+      <description>Written by Cathy O’Neil
+Machine Learning and other mathematical algorithms are more and move taking over decision making. Whether someone is given a loan or an insurance policy. If someone gets fired because of not achieving the required efficiency based on the algorithm&amp;rsquo;s requirements or if someone gets the job in the first place. If someone might continue to commit crimes if we keep them on the street. If someone is showered with expensive, for-profit college advertisements or other high-interest, predatory loans.</description>
+    </item>
+    
+    <item>
+      <title>What I’m struggling with as a self-learner</title>
+      <link>https://svenhofstede.com/what-im-struggling-with-as-a-self-learner/</link>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/what-im-struggling-with-as-a-self-learner/</guid>
+      <description>Pretty soon I will be starting a new job where I will be working as a Java developer. I have some professional experience writing Scala code (Spark) but this was in a different context. Moving data around is very different to application development. I&amp;rsquo;m therefore spending a couple hours each week brushing up on my programming skills and I thought it would be interesting to document the struggles I&amp;rsquo;m currently facing.</description>
+    </item>
+    
+    <item>
+      <title>My News Diet</title>
+      <link>https://svenhofstede.com/my-news-diet/</link>
+      <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/my-news-diet/</guid>
+      <description>I actively try to avoid any type of news/media. I have de-activated my Facebook account. I don&amp;rsquo;t read newspapers or magazines.
+Total connectivity My friend was in New Zealand a couple of months back. This is quite literally the other side of the world to where I live. While he was there an severe earthquake struck the island. According to him, he was reading about the earthquake on belgian news sites 10 minutes after it happened.</description>
+    </item>
+    
+    <item>
+      <title>Things I should learn as a new programmer</title>
+      <link>https://svenhofstede.com/things-i-should-learn-as-a-new-programmer/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/things-i-should-learn-as-a-new-programmer/</guid>
+      <description>Algorithms &amp;amp; Data Structures There are literally limitless ways to solve any given problem. A good programmer will know the right tool for the job by using existing Algorithms and Data Structures.
 I think it&amp;rsquo;s also a good idea to have the basic intuition of how well known algorithms work. For example, know how the various sorting algorithms are implemented. This will highlight good algorithn design.
-I also plan to eventually finish the Algorithms course on Coursera starting here.</description></item><item><title>Outwitting the Devil</title><link>https://svenhofstede.com/outwitting-the-devil/</link><pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/outwitting-the-devil/</guid><description>Written by Napoleon Hill
+I also plan to eventually finish the Algorithms course on Coursera starting here.</description>
+    </item>
+    
+    <item>
+      <title>Outwitting the Devil</title>
+      <link>https://svenhofstede.com/outwitting-the-devil/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/outwitting-the-devil/</guid>
+      <description>Written by Napoleon Hill
 What would it be like to interview the devil? Well, turns out it&amp;rsquo;s extremely educational.
-In this book Napoleon Hill first gives a rundown of the early life of Napoleon Hill and the problems he encounters. The second part is an interview, or rather a confession, with the devil. The interview part is the core of the book and the reason you should read it. During the interview the devil is obliged to give full, detailed and uncensored explanation of how he is brainwashing people into becoming drifters.</description></item><item><title>War of Art</title><link>https://svenhofstede.com/war-of-art/</link><pubDate>Sat, 24 Dec 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/war-of-art/</guid><description>Written by Steven Pressfield
+In this book Napoleon Hill first gives a rundown of the early life of Napoleon Hill and the problems he encounters. The second part is an interview, or rather a confession, with the devil. The interview part is the core of the book and the reason you should read it. During the interview the devil is obliged to give full, detailed and uncensored explanation of how he is brainwashing people into becoming drifters.</description>
+    </item>
+    
+    <item>
+      <title>War of Art</title>
+      <link>https://svenhofstede.com/war-of-art/</link>
+      <pubDate>Sat, 24 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/war-of-art/</guid>
+      <description>Written by Steven Pressfield
 This books deals with the Resistance creative thinkers feel. Being creative is hard and takes much effort. Being creative is producing something that didn&amp;rsquo;t exist before. Most people stick to consuming instead of producing as consuming is the route of least resistance. Forcing yourself and embracing the uncomfort of producing/being creative will turn someone pro, as the author describes.
-The author talks about the discipline someone needs to be succesfull in creative endeavours.</description></item><item><title>Be Obsessed or Be Average</title><link>https://svenhofstede.com/be-obsessed-or-be-average/</link><pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/be-obsessed-or-be-average/</guid><description>Written by Grant Cardone
+The author talks about the discipline someone needs to be succesfull in creative endeavours.</description>
+    </item>
+    
+    <item>
+      <title>Be Obsessed or Be Average</title>
+      <link>https://svenhofstede.com/be-obsessed-or-be-average/</link>
+      <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/be-obsessed-or-be-average/</guid>
+      <description>Written by Grant Cardone
 I&amp;rsquo;ll start out by saying that I&amp;rsquo;m not a fan of this book. I was warned before reading that it isn&amp;rsquo;t for everyone and I&amp;rsquo;ll have to agree with that statement now. If not for the ease of reading, I don&amp;rsquo;t think I would of completed it.
-The book revolves around the idea of being completely consumed by your goals in life. This means ignoring criticism/negative feedback from anyone, putting in extra hours all the time, being ruthless towards your competitions and squeezing out every last drop of profit from your employees and clients.</description></item><item><title>What Clean Code taught me</title><link>https://svenhofstede.com/what-clean-code-taught-me/</link><pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/what-clean-code-taught-me/</guid><description>This blog post is work-in-progress while working myself through the book. It will loosely follow the structure of the book.
-I&amp;rsquo;m currently working on reading through Clean Code by Robert C. Martin. It was clear from the start that the book is full of incredible content and it&amp;rsquo;s well worth the time to study it properly. I&amp;rsquo;m trying to capture the key take-aways I have come across. There is much more to the book then what I&amp;rsquo;m highlighting here but these are things that were somewhat new to me and stuck in my mind as being worth remembering.</description></item><item><title>My Reading List</title><link>https://svenhofstede.com/my-reading-list/</link><pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/my-reading-list/</guid><description>My ever-evolving reading list for the coming weeks, months, years :)
+The book revolves around the idea of being completely consumed by your goals in life. This means ignoring criticism/negative feedback from anyone, putting in extra hours all the time, being ruthless towards your competitions and squeezing out every last drop of profit from your employees and clients.</description>
+    </item>
+    
+    <item>
+      <title>What Clean Code taught me</title>
+      <link>https://svenhofstede.com/what-clean-code-taught-me/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/what-clean-code-taught-me/</guid>
+      <description>This blog post is work-in-progress while working myself through the book. It will loosely follow the structure of the book.
+I&amp;rsquo;m currently working on reading through Clean Code by Robert C. Martin. It was clear from the start that the book is full of incredible content and it&amp;rsquo;s well worth the time to study it properly. I&amp;rsquo;m trying to capture the key take-aways I have come across. There is much more to the book then what I&amp;rsquo;m highlighting here but these are things that were somewhat new to me and stuck in my mind as being worth remembering.</description>
+    </item>
+    
+    <item>
+      <title>My Reading List</title>
+      <link>https://svenhofstede.com/my-reading-list/</link>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/my-reading-list/</guid>
+      <description>My ever-evolving reading list for the coming weeks, months, years :)
 You can click on the [★★★★★]({% post_url 2016-12-02-book-list %}) icons to link to a review I wrote.
-Programming Clean Code - Robert C. Martin [★★★★★]({% post_url 2016-12-12-clean-code-summary %}) Code Complete - Steve McConnell Head First Design Patterns - Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra Structure and Interpretation of Computer Programs - Harold Abelson, Gerald Jay Sussman, Julie Sussman Code: The Hidden Language of Computer Hardware and Software - Charles Petzold Agile Software Development Principles - Robert C.</description></item><item><title>The Alchemist</title><link>https://svenhofstede.com/the-alchemist/</link><pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/the-alchemist/</guid><description>Written by Paulo Coelho
+Programming Clean Code - Robert C. Martin [★★★★★]({% post_url 2016-12-12-clean-code-summary %}) Code Complete - Steve McConnell Head First Design Patterns - Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra Structure and Interpretation of Computer Programs - Harold Abelson, Gerald Jay Sussman, Julie Sussman Code: The Hidden Language of Computer Hardware and Software - Charles Petzold Agile Software Development Principles - Robert C.</description>
+    </item>
+    
+    <item>
+      <title>The Alchemist</title>
+      <link>https://svenhofstede.com/the-alchemist/</link>
+      <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/the-alchemist/</guid>
+      <description>Written by Paulo Coelho
 This is one of those books that I&amp;rsquo;ll remember for a long time. Paulo is a gifted story-teller.
-The story is a journey. A journey of a young man to find his destiny. It&amp;rsquo;s simple and well-written but what makes this book really great is that it&amp;rsquo;s completely riddled with symbols and metaphors. Practically every character, location and situations that he encounters during his joruney can be related back to something in life.</description></item><item><title>Homer's face.. with a Random Forest!</title><link>https://svenhofstede.com/homers-face..-with-a-random-forest/</link><pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/homers-face..-with-a-random-forest/</guid><description>Classifying Simpsons characters in images Dataset: Many thanks to jbencina for making this dataset available. The dataset is available on github here:
+The story is a journey. A journey of a young man to find his destiny. It&amp;rsquo;s simple and well-written but what makes this book really great is that it&amp;rsquo;s completely riddled with symbols and metaphors. Practically every character, location and situations that he encounters during his joruney can be related back to something in life.</description>
+    </item>
+    
+    <item>
+      <title>Homer&#39;s face.. with a Random Forest!</title>
+      <link>https://svenhofstede.com/homers-face..-with-a-random-forest/</link>
+      <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/homers-face..-with-a-random-forest/</guid>
+      <description>Classifying Simpsons characters in images Dataset: Many thanks to jbencina for making this dataset available. The dataset is available on github here:
 Collection of 30,693 frames from 65 Simspsons episodes from seasons 3, 4, and 5. Each image is 160x120 pixels.
 One collection (faces-clean-color) contains isolated frames of Homer (n=1,041), Marge (n=444), Lisa (n=358), and Bart (n=645) totalling (n=2,488). These files are labled as {instance_number}_{character_name}.jpg.
-The second collection (unsorted-color) contains 28,205 unsorted frames which can contain backgrounds, characters, text, etc.</description></item><item><title>Create radar chart in Tableau</title><link>https://svenhofstede.com/create-radar-chart-in-tableau/</link><pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/create-radar-chart-in-tableau/</guid><description>Radar charts Radar charts is a two dimensional graph that allows for visualizing numerous amount of measures. Normally the number of measures would be at least 4 to give the radar charts it&amp;rsquo;s distinct shape. Many more measures can be displayed, each adding a new &amp;rsquo;leg&amp;rsquo; to graph. The radar chart is sometimes also referred to as a Spider chart.
-The larger the value, the further the data point is plotted towards the outside of the graph.</description></item><item><title>Why start blogging</title><link>https://svenhofstede.com/why-start-blogging/</link><pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/why-start-blogging/</guid><description>The reason There are a couple of reason why I think it&amp;rsquo;s a great idea to start a blog, especially as an IT professional.
-Showcase what you can do The main reason I&amp;rsquo;m starting to blog is because I think it&amp;rsquo;s a great way to show what you&amp;rsquo;re good at. You can really showcase your expertise by writing in-depth articles on your subject matter. It&amp;rsquo;s freely available 24/7 for anyone interested and it gets your name or brand out there.</description></item><item><title>Predicting titanic survivors</title><link>https://svenhofstede.com/predicting-titanic-survivors/</link><pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/predicting-titanic-survivors/</guid><description>Predicting Titanic Survivors.. again Yes.. I also decided to give the Titanic survival prediction a go. It&amp;rsquo;s probably the go-to starting point for people wanting to learn Machine Learning. Apart from some missing values the dataset itself is pretty clean, the label we are trying to predict &amp;lsquo;makes sense&amp;rsquo;. You can easily reason about what we are going for. If you&amp;rsquo;ve watched the movie you will also have a good idea about what features might be useful ( Woman and children first!</description></item><item><title>Big O Notation</title><link>https://svenhofstede.com/big-o-notation/</link><pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/big-o-notation/</guid><description>Big-O notation illustrates how a function responds to various inputs. Simply put: How fast will my function run if I change the input from 10 elements to 1000000 elements. Big-O is all about the approximate worst-case performance of doing something. The upper bound is the mathematic limit of the worst output.
+The second collection (unsorted-color) contains 28,205 unsorted frames which can contain backgrounds, characters, text, etc.</description>
+    </item>
+    
+    <item>
+      <title>Create radar chart in Tableau</title>
+      <link>https://svenhofstede.com/create-radar-chart-in-tableau/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/create-radar-chart-in-tableau/</guid>
+      <description>Radar charts Radar charts is a two dimensional graph that allows for visualizing numerous amount of measures. Normally the number of measures would be at least 4 to give the radar charts it&amp;rsquo;s distinct shape. Many more measures can be displayed, each adding a new &amp;rsquo;leg&amp;rsquo; to graph. The radar chart is sometimes also referred to as a Spider chart.
+The larger the value, the further the data point is plotted towards the outside of the graph.</description>
+    </item>
+    
+    <item>
+      <title>Why start blogging</title>
+      <link>https://svenhofstede.com/why-start-blogging/</link>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/why-start-blogging/</guid>
+      <description>The reason There are a couple of reason why I think it&amp;rsquo;s a great idea to start a blog, especially as an IT professional.
+Showcase what you can do The main reason I&amp;rsquo;m starting to blog is because I think it&amp;rsquo;s a great way to show what you&amp;rsquo;re good at. You can really showcase your expertise by writing in-depth articles on your subject matter. It&amp;rsquo;s freely available 24/7 for anyone interested and it gets your name or brand out there.</description>
+    </item>
+    
+    <item>
+      <title>Predicting titanic survivors</title>
+      <link>https://svenhofstede.com/predicting-titanic-survivors/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/predicting-titanic-survivors/</guid>
+      <description>Predicting Titanic Survivors.. again Yes.. I also decided to give the Titanic survival prediction a go. It&amp;rsquo;s probably the go-to starting point for people wanting to learn Machine Learning. Apart from some missing values the dataset itself is pretty clean, the label we are trying to predict &amp;lsquo;makes sense&amp;rsquo;. You can easily reason about what we are going for. If you&amp;rsquo;ve watched the movie you will also have a good idea about what features might be useful ( Woman and children first!</description>
+    </item>
+    
+    <item>
+      <title>Big O Notation</title>
+      <link>https://svenhofstede.com/big-o-notation/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/big-o-notation/</guid>
+      <description>Big-O notation illustrates how a function responds to various inputs. Simply put: How fast will my function run if I change the input from 10 elements to 1000000 elements. Big-O is all about the approximate worst-case performance of doing something. The upper bound is the mathematic limit of the worst output.
 log of 50 = x
 10^x = 50
-To the power of what do I need to raise 10 to end up with 50.</description></item><item><title>Josh Wills - The Life of a Data Scientist</title><link>https://svenhofstede.com/josh-wills-the-life-of-a-data-scientist/</link><pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/josh-wills-the-life-of-a-data-scientist/</guid><description>Traits of Data scientist Being relentless in a lazy way Most of your model assumptions are incorrect. He mentions 2/3 of his ideas failed. Being lazy means you DO move on to the next idea and don&amp;rsquo;t stick to it.
+To the power of what do I need to raise 10 to end up with 50.</description>
+    </item>
+    
+    <item>
+      <title>Josh Wills - The Life of a Data Scientist</title>
+      <link>https://svenhofstede.com/josh-wills-the-life-of-a-data-scientist/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/josh-wills-the-life-of-a-data-scientist/</guid>
+      <description>Traits of Data scientist Being relentless in a lazy way Most of your model assumptions are incorrect. He mentions 2/3 of his ideas failed. Being lazy means you DO move on to the next idea and don&amp;rsquo;t stick to it.
 Humility Being at best competent as a statician and scientist. You know enough to talk to expert but you&amp;rsquo;re not an expert but this allows you to learn.
-Math vs.</description></item><item><title>What I think of Tableau</title><link>https://svenhofstede.com/what-i-think-of-tableau/</link><pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/what-i-think-of-tableau/</guid><description>I&amp;rsquo;ve been working with Tableau professionally for the past two years. I create ready-to-use dashboard for end-users who typically consume them via the Tableau Server portal. I feel however that this is not the best use for Tableau and I&amp;rsquo;ll go into details why further on. Let&amp;rsquo;s start with some of the highlights.
-+ As easy as Excel Tableau is great. I would advise anyone to go check it out if you are looking for an easy-to-learn, professional package for data exploration/analysis.</description></item><item><title>Creating a home gym</title><link>https://svenhofstede.com/creating-a-home-gym/</link><pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/creating-a-home-gym/</guid><description>The Why I finally decided to invest in my own homegym. I&amp;rsquo;ve been going to a commercial gym for the past two years but lately have been slacking. I prefer to train in the morning or in the evenings. Unfortunately my gym opens at 8AM and in the evenings it&amp;rsquo;s very busy. Like queue-up-for-every-rack/bench busy. Being able to workout whenever I want to seemed pretty convenient so I sat down, did some calculations and came to the conclusion that the costs of buying everything for my home gym won&amp;rsquo;t be so bad.</description></item><item><title>Airbnb in New York</title><link>https://svenhofstede.com/airbnb-in-new-york/</link><pubDate>Sun, 20 Sep 2015 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/airbnb-in-new-york/</guid><description>I find Airbnb itself to be an interesting concept. Renting out any left over space you might have in your home seems like a great way of earning some extra cash while at the same time meeting new people.
-Initial datasets Airbnb provides datasets containing all the airbnb listings a number of large cities through insideairbnb. I thought it would be cool to have a look at some of this data.</description></item></channel></rss>
+Math vs.</description>
+    </item>
+    
+    <item>
+      <title>What I think of Tableau</title>
+      <link>https://svenhofstede.com/what-i-think-of-tableau/</link>
+      <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/what-i-think-of-tableau/</guid>
+      <description>I&amp;rsquo;ve been working with Tableau professionally for the past two years. I create ready-to-use dashboard for end-users who typically consume them via the Tableau Server portal. I feel however that this is not the best use for Tableau and I&amp;rsquo;ll go into details why further on. Let&amp;rsquo;s start with some of the highlights.
++ As easy as Excel Tableau is great. I would advise anyone to go check it out if you are looking for an easy-to-learn, professional package for data exploration/analysis.</description>
+    </item>
+    
+    <item>
+      <title>Creating a home gym</title>
+      <link>https://svenhofstede.com/creating-a-home-gym/</link>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/creating-a-home-gym/</guid>
+      <description>The Why I finally decided to invest in my own homegym. I&amp;rsquo;ve been going to a commercial gym for the past two years but lately have been slacking. I prefer to train in the morning or in the evenings. Unfortunately my gym opens at 8AM and in the evenings it&amp;rsquo;s very busy. Like queue-up-for-every-rack/bench busy. Being able to workout whenever I want to seemed pretty convenient so I sat down, did some calculations and came to the conclusion that the costs of buying everything for my home gym won&amp;rsquo;t be so bad.</description>
+    </item>
+    
+    <item>
+      <title>Airbnb in New York</title>
+      <link>https://svenhofstede.com/airbnb-in-new-york/</link>
+      <pubDate>Sun, 20 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://svenhofstede.com/airbnb-in-new-york/</guid>
+      <description>I find Airbnb itself to be an interesting concept. Renting out any left over space you might have in your home seems like a great way of earning some extra cash while at the same time meeting new people.
+Initial datasets Airbnb provides datasets containing all the airbnb listings a number of large cities through insideairbnb. I thought it would be cool to have a look at some of this data.</description>
+    </item>
+    
+  </channel>
+</rss>
