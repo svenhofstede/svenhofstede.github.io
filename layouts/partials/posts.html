@@ -1,0 +1,5 @@
+<table id="posts">
+{{- range where site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{ .Render "li" }}
+{{- end }}
+</table>
