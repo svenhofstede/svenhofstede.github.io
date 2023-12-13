@@ -92,7 +92,10 @@
 &lt;p>The book is a collection of short chapters each highlighting aspects of &lt;em>being obsessed&lt;/em>. However this book also suffers from the typical filler-content that bugs these types of books. In fact, reading through I rarely stopped and thought &amp;lsquo;Hey, that&amp;rsquo;s something new and interesting&amp;rsquo;. There was also a lot of self-promotion and promoting of his other products.&lt;/p>
 &lt;p>Obviously the system has been working for him. He&amp;rsquo;s an extremely successful business man, real-estate investor and all-round sales guru. It&amp;rsquo;s therefore hard for me to deny this mentality works. I agree that being committed and certain of your goal is important. You need this to persevere through hard times. But Grant seems to take this to the extreme and I feel like extremes are rarely good.&lt;/p>
 &lt;p>I&amp;rsquo;d say: &lt;strong>Skip it&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="https://svenhofstede.com/img/book_reviews/be_obsessed.jpeg" alt="cover">&lt;/p></description></item><item><title>What Clean Code taught me</title><link>https://svenhofstede.com/what-clean-code-taught-me/</link><pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/what-clean-code-taught-me/</guid><description>&lt;p>&lt;em>This blog post is work-in-progress while working myself through the book. It will loosely follow the structure of the book.&lt;/em>&lt;/p>
+&lt;p>&lt;img src="https://svenhofstede.com/img/book_reviews/be_obsessed.jpeg" alt="cover">&lt;/p></description></item><item><title>What Clean Code taught me</title><link>https://svenhofstede.com/what-clean-code-taught-me/</link><pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/what-clean-code-taught-me/</guid><description>&lt;p>&lt;strong>Update 2023&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>It&amp;rsquo;s funny. I read this book as a more novice programmer. After a couple of years of working in the field you notice that this book is actually not very good or up to date. Some examples of code in this book are mind boggling in terms of code abstraction. Most of the conventions that are suggested are way to extreme and lead to rather unmaintainable code. It might be &lt;em>readable&lt;/em> but good luck trying to debug it. The endless extractions into small methods also leads to having to come up with the perfect methods names. Obviously not the entire book is bad. I guess it&amp;rsquo;s just not the &amp;lsquo;bible&amp;rsquo; that I thought it was.&lt;/p>
+&lt;/blockquote>
 &lt;p>I&amp;rsquo;m currently working on reading through Clean Code by Robert C. Martin. It was clear from the start that the book is full of incredible content and it&amp;rsquo;s well worth the time to study it properly. I&amp;rsquo;m trying to capture the key take-aways I have come across. There is much more to the book then what I&amp;rsquo;m highlighting here but these are things that were somewhat new to me and stuck in my mind as being worth remembering. I would suggest any programmer to have a look at this book in full.&lt;/p>
 &lt;p>I&amp;rsquo;m approaching this book from an un-experienced programming in terms of application development. Most of the concepts/patterns are new to me.&lt;/p>
 &lt;h2 id="the-art-of-naming">The Art of Naming&lt;/h2>
@@ -206,9 +209,10 @@
 &lt;p>You can click on the [★★★★★]({% post_url 2016-12-02-book-list %}) icons to link to a review I wrote.&lt;/p>
 &lt;h3 id="programming">Programming&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>Clean Code&lt;/strong> - &lt;em>Robert C. Martin&lt;/em> [★★★★★]({% post_url 2016-12-12-clean-code-summary %})&lt;/li>
+&lt;li>&lt;strong>Clean Code&lt;/strong> - &lt;em>Robert C. Martin&lt;/em> [★★★]({% post_url 2016-12-12-clean-code-summary %})&lt;/li>
 &lt;li>&lt;strong>Code Complete&lt;/strong> - &lt;em>Steve McConnell&lt;/em>&lt;/li>
 &lt;li>&lt;strong>Head First Design Patterns&lt;/strong> - &lt;em>Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Designing Data-Intensive Applications&lt;/strong> - &lt;em>Martin Kleppmann&lt;/em> ★★★★★ Absolutely amazing and a must read for any software engineer&lt;/li>
 &lt;li>Structure and Interpretation of Computer Programs - &lt;em>Harold Abelson, Gerald Jay Sussman, Julie Sussman&lt;/em>&lt;/li>
 &lt;li>Code: The Hidden Language of Computer Hardware and Software - &lt;em>Charles Petzold&lt;/em>&lt;/li>
 &lt;li>Agile Software Development Principles - &lt;em>Robert C. Martin&lt;/em>&lt;/li>
@@ -243,21 +247,21 @@
 &lt;li>&lt;strong>The Compound Effect&lt;/strong> - &lt;em>Darren Hardy&lt;/em> ★★★★&lt;/li>
 &lt;li>&lt;strong>Be Obsessed or Be Average&lt;/strong> - &lt;em>Grant Cardone&lt;/em> [★★]({% post_url 2016-12-17-be-obsessed %})&lt;/li>
 &lt;li>&lt;strong>The Subtle Art of Not Giving a Fuck&lt;/strong> - &lt;em>Mark Manson&lt;/em> ★★★★&lt;/li>
-&lt;li>Thinking, Fast and Slow - &lt;em>Daniel Kahneman&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Gödel, Escher, Bach&lt;/strong> - &lt;em>Douglas Hofstadter&lt;/em> ★★ Started but stopped soon after. No idea what this book is about.&lt;/li>
+&lt;li>&lt;strong>Thinking, Fast and Slow&lt;/strong> - &lt;em>Daniel Kahneman&lt;/em> ★★★&lt;/li>
+&lt;li>&lt;strong>Antifragile&lt;/strong> - &lt;em>Nassim Nicholas Taleb&lt;/em> ★★★★&lt;/li>
 &lt;li>As a Man Thinketh - &lt;em>James Allen&lt;/em>&lt;/li>
 &lt;li>Psycho-Cybernetics - &lt;em>Maxwell Maltz&lt;/em>&lt;/li>
 &lt;li>Maximum Achievement - &lt;em>Brian Tracy&lt;/em>&lt;/li>
 &lt;li>The 7 Habits of Highly Effective People - &lt;em>Stephen R. Covey&lt;/em>&lt;/li>
-&lt;li>Antifragile - &lt;em>Nassim Nicholas Taleb&lt;/em>&lt;/li>
 &lt;li>Awaken The Giant Within - &lt;em>Tony Robbins&lt;/em>&lt;/li>
 &lt;li>Eat That Frog - &lt;em>Brian Tracy&lt;/em>&lt;/li>
-&lt;li>Gödel, Escher, Bach - &lt;em>Douglas Hofstadter&lt;/em>&lt;/li>
 &lt;/ul>
 &lt;h3 id="stoicism">Stoicism&lt;/h3>
 &lt;ul>
 &lt;li>&lt;strong>A Guide to the Good Life&lt;/strong> - &lt;em>William B. Irvine&lt;/em> ★★★★★&lt;/li>
 &lt;li>&lt;strong>The Daily Stoic&lt;/strong> - &lt;em>Ryan Holiday and Stephen Hanselman&lt;/em> ★★★★★&lt;/li>
-&lt;li>&lt;strong>The Obstacle Is The Way&lt;/strong> - &lt;em>Ryan Holiday&lt;/em>&lt;/li>
+&lt;li>&lt;strong>The Obstacle Is The Way&lt;/strong> - &lt;em>Ryan Holiday&lt;/em> ★★&lt;/li>
 &lt;/ul>
 &lt;h3 id="finance">Finance&lt;/h3>
 &lt;ul>
