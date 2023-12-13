@@ -209,7 +209,7 @@
 &lt;p>You can click on the [★★★★★]({% post_url 2016-12-02-book-list %}) icons to link to a review I wrote.&lt;/p>
 &lt;h3 id="programming">Programming&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>Clean Code&lt;/strong> - &lt;em>Robert C. Martin&lt;/em> [★★★]https://svenhofstede.com/what-clean-code-taught-me/&lt;/li>
+&lt;li>&lt;strong>Clean Code&lt;/strong> - &lt;em>Robert C. Martin&lt;/em> &lt;a href="https://svenhofstede.com/what-clean-code-taught-me/">★★★&lt;/a>&lt;/li>
 &lt;li>&lt;strong>Code Complete&lt;/strong> - &lt;em>Steve McConnell&lt;/em>&lt;/li>
 &lt;li>&lt;strong>Head First Design Patterns&lt;/strong> - &lt;em>Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra&lt;/em>&lt;/li>
 &lt;li>&lt;strong>Designing Data-Intensive Applications&lt;/strong> - &lt;em>Martin Kleppmann&lt;/em> ★★★★★ Absolutely amazing and a must read for any software engineer&lt;/li>
