@@ -9,7 +9,7 @@ You can click on the [★★★★★]({% post_url 2016-12-02-book-list %}) icon
 
 ### Programming
 
-* **Clean Code** - *Robert C. Martin* [★★★]({% post_url 2016-12-12-clean-code-summary %})
+* **Clean Code** - *Robert C. Martin* [★★★]{{< ref "clean-code-summary" >}}
 * **Code Complete** - *Steve McConnell* 
 * **Head First Design Patterns** - *Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra*
 * **Designing Data-Intensive Applications** - *Martin Kleppmann* ★★★★★ Absolutely amazing and a must read for any software engineer
@@ -39,13 +39,13 @@ You can click on the [★★★★★]({% post_url 2016-12-02-book-list %}) icon
 
 ### Self-development
 
-* **Outwitting the Devil** - *Napoleon Hill* [★★★★]({% post_url 2016-12-29-outwitting-the-devil %})
+* **Outwitting the Devil** - *Napoleon Hill* [★★★★]{{< ref "outwitting-the-devil" >}}
 * **The Magic of Thinking Big** - *David Schwartz* ★★★★★
 * **How to Fail at Almost Everything and Still Win Big** - *Scott Adams* ★★★★★
-* **The War of Art** - *Steven Pressfield* [★★★★]({% post_url 2016-12-24-war-of-art %})
+* **The War of Art** - *Steven Pressfield* [★★★★]{{< ref "war-of-art" >}}
 * **Man’s Search for Meaning** - *Viktor Frankl* ★★★★
 * **The Compound Effect** - *Darren Hardy* ★★★★
-* **Be Obsessed or Be Average** - *Grant Cardone* [★★]({% post_url 2016-12-17-be-obsessed %})
+* **Be Obsessed or Be Average** - *Grant Cardone* [★★]{{< ref "be-obsessed" >}}
 * **The Subtle Art of Not Giving a Fuck** - *Mark Manson* ★★★★
 * **Gödel, Escher, Bach** - *Douglas Hofstadter* ★★ Started but stopped soon after. No idea what this book is about.
 * **Thinking, Fast and Slow** - *Daniel Kahneman* ★★★
@@ -79,8 +79,8 @@ You can click on the [★★★★★]({% post_url 2016-12-02-book-list %}) icon
 
 ### Other
 
-* **The Alchemist** - *Paulo Coelho* [★★★★★]({% post_url 2016-11-26-the-alchemist %})
-* **Weapons of Math Destruction** - *Cathy O’Neil* [★★★★]({% post_url 2017-02-19-weapon-of-math-destruction %})
+* **The Alchemist** - *Paulo Coelho* [★★★★★]{{< ref "the-alchemist" >}}
+* **Weapons of Math Destruction** - *Cathy O’Neil* [★★★★]{{< ref "weapon-of-math-destruction" >}}
 * **Tiny Beautiful Things** - *Cheryl Strayed* ★
 * **God's Debris** - *Scott Adams* ★★★★
 * The Way of the Superior Man - *David Deida*
