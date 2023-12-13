@@ -5,7 +5,7 @@ date: 2016-12-02
 
 My ever-evolving reading list for the coming weeks, months, years :) 
 
-You can click on the [★★★★★]({% post_url 2016-12-02-book-list %}) icons to link to a review I wrote.
+You can click on the [★★★★★]({{< ref "book-list" >}}) icons to link to a review I wrote.
 
 ### Programming
 
@@ -39,13 +39,13 @@ You can click on the [★★★★★]({% post_url 2016-12-02-book-list %}) icon
 
 ### Self-development
 
-* **Outwitting the Devil** - *Napoleon Hill* [★★★★]{{< ref "outwitting-the-devil" >}}
+* **Outwitting the Devil** - *Napoleon Hill* [★★★★]({{< ref "outwitting-the-devil" >}})
 * **The Magic of Thinking Big** - *David Schwartz* ★★★★★
 * **How to Fail at Almost Everything and Still Win Big** - *Scott Adams* ★★★★★
-* **The War of Art** - *Steven Pressfield* [★★★★]{{< ref "war-of-art" >}}
+* **The War of Art** - *Steven Pressfield* [★★★★]({{< ref "war-of-art" >}})
 * **Man’s Search for Meaning** - *Viktor Frankl* ★★★★
 * **The Compound Effect** - *Darren Hardy* ★★★★
-* **Be Obsessed or Be Average** - *Grant Cardone* [★★]{{< ref "be-obsessed" >}}
+* **Be Obsessed or Be Average** - *Grant Cardone* [★★]({{< ref "be-obsessed" >}})
 * **The Subtle Art of Not Giving a Fuck** - *Mark Manson* ★★★★
 * **Gödel, Escher, Bach** - *Douglas Hofstadter* ★★ Started but stopped soon after. No idea what this book is about.
 * **Thinking, Fast and Slow** - *Daniel Kahneman* ★★★
@@ -79,8 +79,8 @@ You can click on the [★★★★★]({% post_url 2016-12-02-book-list %}) icon
 
 ### Other
 
-* **The Alchemist** - *Paulo Coelho* [★★★★★]{{< ref "the-alchemist" >}}
-* **Weapons of Math Destruction** - *Cathy O’Neil* [★★★★]{{< ref "weapon-of-math-destruction" >}}
+* **The Alchemist** - *Paulo Coelho* [★★★★★]({{< ref "the-alchemist" >}})
+* **Weapons of Math Destruction** - *Cathy O’Neil* [★★★★]({{< ref "weapon-of-math-destruction" >}})
 * **Tiny Beautiful Things** - *Cheryl Strayed* ★
 * **God's Debris** - *Scott Adams* ★★★★
 * The Way of the Superior Man - *David Deida*
