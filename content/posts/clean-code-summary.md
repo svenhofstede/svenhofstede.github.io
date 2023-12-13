@@ -2,7 +2,10 @@
 title: What Clean Code taught me
 date: 2016-12-12
 ---
-*This blog post is work-in-progress while working myself through the book. It will loosely follow the structure of the book.*
+
+**Update 2023**
+
+> It's funny. I read this book as a more novice programmer. After a couple of years of working in the field you notice that this book is actually not very good or up to date. Some examples of code in this book are mind boggling in terms of code abstraction. Most of the conventions that are suggested are way to extreme and lead to rather unmaintainable code. It might be *readable* but good luck trying to debug it. The endless extractions into small methods also leads to having to come up with the perfect methods names. Obviously not the entire book is bad. I guess it's just not the 'bible' that I thought it was.
 
 I'm currently working on reading through Clean Code by Robert C. Martin. It was clear from the start that the book is full of incredible content and it's well worth the time to study it properly. I'm trying to capture the key take-aways I have come across. There is much more to the book then what I'm highlighting here but these are things that were somewhat new to me and stuck in my mind as being worth remembering. I would suggest any programmer to have a look at this book in full. 
 
