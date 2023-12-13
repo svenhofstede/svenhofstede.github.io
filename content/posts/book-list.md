@@ -9,7 +9,7 @@ You can click on the [★★★★★]({% post_url 2016-12-02-book-list %}) icon
 
 ### Programming
 
-* **Clean Code** - *Robert C. Martin* [★★★]{{< ref "clean-code-summary" >}}
+* **Clean Code** - *Robert C. Martin* [★★★]({{< ref "clean-code-summary" >}})
 * **Code Complete** - *Steve McConnell* 
 * **Head First Design Patterns** - *Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra*
 * **Designing Data-Intensive Applications** - *Martin Kleppmann* ★★★★★ Absolutely amazing and a must read for any software engineer
