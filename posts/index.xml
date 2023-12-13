@@ -209,7 +209,7 @@
 &lt;p>You can click on the [★★★★★]({% post_url 2016-12-02-book-list %}) icons to link to a review I wrote.&lt;/p>
 &lt;h3 id="programming">Programming&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>Clean Code&lt;/strong> - &lt;em>Robert C. Martin&lt;/em> [★★★]({% post_url 2016-12-12-clean-code-summary %})&lt;/li>
+&lt;li>&lt;strong>Clean Code&lt;/strong> - &lt;em>Robert C. Martin&lt;/em> [★★★]https://svenhofstede.com/what-clean-code-taught-me/&lt;/li>
 &lt;li>&lt;strong>Code Complete&lt;/strong> - &lt;em>Steve McConnell&lt;/em>&lt;/li>
 &lt;li>&lt;strong>Head First Design Patterns&lt;/strong> - &lt;em>Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra&lt;/em>&lt;/li>
 &lt;li>&lt;strong>Designing Data-Intensive Applications&lt;/strong> - &lt;em>Martin Kleppmann&lt;/em> ★★★★★ Absolutely amazing and a must read for any software engineer&lt;/li>
@@ -239,13 +239,13 @@
 &lt;/ul>
 &lt;h3 id="self-development">Self-development&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>Outwitting the Devil&lt;/strong> - &lt;em>Napoleon Hill&lt;/em> [★★★★]({% post_url 2016-12-29-outwitting-the-devil %})&lt;/li>
+&lt;li>&lt;strong>Outwitting the Devil&lt;/strong> - &lt;em>Napoleon Hill&lt;/em> [★★★★]https://svenhofstede.com/outwitting-the-devil/&lt;/li>
 &lt;li>&lt;strong>The Magic of Thinking Big&lt;/strong> - &lt;em>David Schwartz&lt;/em> ★★★★★&lt;/li>
 &lt;li>&lt;strong>How to Fail at Almost Everything and Still Win Big&lt;/strong> - &lt;em>Scott Adams&lt;/em> ★★★★★&lt;/li>
-&lt;li>&lt;strong>The War of Art&lt;/strong> - &lt;em>Steven Pressfield&lt;/em> [★★★★]({% post_url 2016-12-24-war-of-art %})&lt;/li>
+&lt;li>&lt;strong>The War of Art&lt;/strong> - &lt;em>Steven Pressfield&lt;/em> [★★★★]https://svenhofstede.com/war-of-art/&lt;/li>
 &lt;li>&lt;strong>Man’s Search for Meaning&lt;/strong> - &lt;em>Viktor Frankl&lt;/em> ★★★★&lt;/li>
 &lt;li>&lt;strong>The Compound Effect&lt;/strong> - &lt;em>Darren Hardy&lt;/em> ★★★★&lt;/li>
-&lt;li>&lt;strong>Be Obsessed or Be Average&lt;/strong> - &lt;em>Grant Cardone&lt;/em> [★★]({% post_url 2016-12-17-be-obsessed %})&lt;/li>
+&lt;li>&lt;strong>Be Obsessed or Be Average&lt;/strong> - &lt;em>Grant Cardone&lt;/em> [★★]https://svenhofstede.com/be-obsessed-or-be-average/&lt;/li>
 &lt;li>&lt;strong>The Subtle Art of Not Giving a Fuck&lt;/strong> - &lt;em>Mark Manson&lt;/em> ★★★★&lt;/li>
 &lt;li>&lt;strong>Gödel, Escher, Bach&lt;/strong> - &lt;em>Douglas Hofstadter&lt;/em> ★★ Started but stopped soon after. No idea what this book is about.&lt;/li>
 &lt;li>&lt;strong>Thinking, Fast and Slow&lt;/strong> - &lt;em>Daniel Kahneman&lt;/em> ★★★&lt;/li>
@@ -279,8 +279,8 @@
 &lt;/ul>
 &lt;h3 id="other">Other&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>The Alchemist&lt;/strong> - &lt;em>Paulo Coelho&lt;/em> [★★★★★]({% post_url 2016-11-26-the-alchemist %})&lt;/li>
-&lt;li>&lt;strong>Weapons of Math Destruction&lt;/strong> - &lt;em>Cathy O’Neil&lt;/em> [★★★★]({% post_url 2017-02-19-weapon-of-math-destruction %})&lt;/li>
+&lt;li>&lt;strong>The Alchemist&lt;/strong> - &lt;em>Paulo Coelho&lt;/em> [★★★★★]https://svenhofstede.com/the-alchemist/&lt;/li>
+&lt;li>&lt;strong>Weapons of Math Destruction&lt;/strong> - &lt;em>Cathy O’Neil&lt;/em> [★★★★]https://svenhofstede.com/weapon-of-math-destruction/&lt;/li>
 &lt;li>&lt;strong>Tiny Beautiful Things&lt;/strong> - &lt;em>Cheryl Strayed&lt;/em> ★&lt;/li>
 &lt;li>&lt;strong>God&amp;rsquo;s Debris&lt;/strong> - &lt;em>Scott Adams&lt;/em> ★★★★&lt;/li>
 &lt;li>The Way of the Superior Man - &lt;em>David Deida&lt;/em>&lt;/li>
