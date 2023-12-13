@@ -206,7 +206,7 @@
 &lt;li>The outcome is &lt;strong>S&lt;/strong>elf-validating. Outcome is binary.&lt;/li>
 &lt;li>Written &lt;strong>T&lt;/strong>imely so before the production code&lt;/li>
 &lt;/ul></description></item><item><title>My Reading List</title><link>https://svenhofstede.com/my-reading-list/</link><pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate><guid>https://svenhofstede.com/my-reading-list/</guid><description>&lt;p>My ever-evolving reading list for the coming weeks, months, years :)&lt;/p>
-&lt;p>You can click on the [★★★★★]({% post_url 2016-12-02-book-list %}) icons to link to a review I wrote.&lt;/p>
+&lt;p>You can click on the &lt;a href="https://svenhofstede.com/my-reading-list/">★★★★★&lt;/a> icons to link to a review I wrote.&lt;/p>
 &lt;h3 id="programming">Programming&lt;/h3>
 &lt;ul>
 &lt;li>&lt;strong>Clean Code&lt;/strong> - &lt;em>Robert C. Martin&lt;/em> &lt;a href="https://svenhofstede.com/what-clean-code-taught-me/">★★★&lt;/a>&lt;/li>
@@ -239,13 +239,13 @@
 &lt;/ul>
 &lt;h3 id="self-development">Self-development&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>Outwitting the Devil&lt;/strong> - &lt;em>Napoleon Hill&lt;/em> [★★★★]https://svenhofstede.com/outwitting-the-devil/&lt;/li>
+&lt;li>&lt;strong>Outwitting the Devil&lt;/strong> - &lt;em>Napoleon Hill&lt;/em> &lt;a href="https://svenhofstede.com/outwitting-the-devil/">★★★★&lt;/a>&lt;/li>
 &lt;li>&lt;strong>The Magic of Thinking Big&lt;/strong> - &lt;em>David Schwartz&lt;/em> ★★★★★&lt;/li>
 &lt;li>&lt;strong>How to Fail at Almost Everything and Still Win Big&lt;/strong> - &lt;em>Scott Adams&lt;/em> ★★★★★&lt;/li>
-&lt;li>&lt;strong>The War of Art&lt;/strong> - &lt;em>Steven Pressfield&lt;/em> [★★★★]https://svenhofstede.com/war-of-art/&lt;/li>
+&lt;li>&lt;strong>The War of Art&lt;/strong> - &lt;em>Steven Pressfield&lt;/em> &lt;a href="https://svenhofstede.com/war-of-art/">★★★★&lt;/a>&lt;/li>
 &lt;li>&lt;strong>Man’s Search for Meaning&lt;/strong> - &lt;em>Viktor Frankl&lt;/em> ★★★★&lt;/li>
 &lt;li>&lt;strong>The Compound Effect&lt;/strong> - &lt;em>Darren Hardy&lt;/em> ★★★★&lt;/li>
-&lt;li>&lt;strong>Be Obsessed or Be Average&lt;/strong> - &lt;em>Grant Cardone&lt;/em> [★★]https://svenhofstede.com/be-obsessed-or-be-average/&lt;/li>
+&lt;li>&lt;strong>Be Obsessed or Be Average&lt;/strong> - &lt;em>Grant Cardone&lt;/em> &lt;a href="https://svenhofstede.com/be-obsessed-or-be-average/">★★&lt;/a>&lt;/li>
 &lt;li>&lt;strong>The Subtle Art of Not Giving a Fuck&lt;/strong> - &lt;em>Mark Manson&lt;/em> ★★★★&lt;/li>
 &lt;li>&lt;strong>Gödel, Escher, Bach&lt;/strong> - &lt;em>Douglas Hofstadter&lt;/em> ★★ Started but stopped soon after. No idea what this book is about.&lt;/li>
 &lt;li>&lt;strong>Thinking, Fast and Slow&lt;/strong> - &lt;em>Daniel Kahneman&lt;/em> ★★★&lt;/li>
@@ -279,8 +279,8 @@
 &lt;/ul>
 &lt;h3 id="other">Other&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>The Alchemist&lt;/strong> - &lt;em>Paulo Coelho&lt;/em> [★★★★★]https://svenhofstede.com/the-alchemist/&lt;/li>
-&lt;li>&lt;strong>Weapons of Math Destruction&lt;/strong> - &lt;em>Cathy O’Neil&lt;/em> [★★★★]https://svenhofstede.com/weapon-of-math-destruction/&lt;/li>
+&lt;li>&lt;strong>The Alchemist&lt;/strong> - &lt;em>Paulo Coelho&lt;/em> &lt;a href="https://svenhofstede.com/the-alchemist/">★★★★★&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Weapons of Math Destruction&lt;/strong> - &lt;em>Cathy O’Neil&lt;/em> &lt;a href="https://svenhofstede.com/weapon-of-math-destruction/">★★★★&lt;/a>&lt;/li>
 &lt;li>&lt;strong>Tiny Beautiful Things&lt;/strong> - &lt;em>Cheryl Strayed&lt;/em> ★&lt;/li>
 &lt;li>&lt;strong>God&amp;rsquo;s Debris&lt;/strong> - &lt;em>Scott Adams&lt;/em> ★★★★&lt;/li>
 &lt;li>The Way of the Superior Man - &lt;em>David Deida&lt;/em>&lt;/li>
