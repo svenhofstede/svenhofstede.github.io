@@ -9,9 +9,10 @@ You can click on the [★★★★★]({% post_url 2016-12-02-book-list %}) icon
 
 ### Programming
 
-* **Clean Code** - *Robert C. Martin* [★★★★★]({% post_url 2016-12-12-clean-code-summary %})
-* **Code Complete** - *Steve McConnell*
+* **Clean Code** - *Robert C. Martin* [★★★]({% post_url 2016-12-12-clean-code-summary %})
+* **Code Complete** - *Steve McConnell* 
 * **Head First Design Patterns** - *Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra*
+* **Designing Data-Intensive Applications** - *Martin Kleppmann* ★★★★★ Absolutely amazing and a must read for any software engineer
 * Structure and Interpretation of Computer Programs - *Harold Abelson, Gerald Jay Sussman, Julie Sussman*
 * Code: The Hidden Language of Computer Hardware and Software - *Charles Petzold*
 * Agile Software Development Principles - *Robert C. Martin*
@@ -46,22 +47,21 @@ You can click on the [★★★★★]({% post_url 2016-12-02-book-list %}) icon
 * **The Compound Effect** - *Darren Hardy* ★★★★
 * **Be Obsessed or Be Average** - *Grant Cardone* [★★]({% post_url 2016-12-17-be-obsessed %})
 * **The Subtle Art of Not Giving a Fuck** - *Mark Manson* ★★★★
-* Thinking, Fast and Slow - *Daniel Kahneman*
+* **Gödel, Escher, Bach** - *Douglas Hofstadter* ★★ Started but stopped soon after. No idea what this book is about.
+* **Thinking, Fast and Slow** - *Daniel Kahneman* ★★★
+* **Antifragile** - *Nassim Nicholas Taleb* ★★★★
 * As a Man Thinketh - *James Allen*
 * Psycho-Cybernetics - *Maxwell Maltz*
 * Maximum Achievement - *Brian Tracy* 
 * The 7 Habits of Highly Effective People - *Stephen R. Covey*
-* Antifragile - *Nassim Nicholas Taleb*
 * Awaken The Giant Within - *Tony Robbins*
 * Eat That Frog - *Brian Tracy*
-* Gödel, Escher, Bach - *Douglas Hofstadter*
-
 
 ### Stoicism
 
 * **A Guide to the Good Life** - *William B. Irvine* ★★★★★
 * **The Daily Stoic** - *Ryan Holiday and Stephen Hanselman* ★★★★★
-* **The Obstacle Is The Way** - *Ryan Holiday*
+* **The Obstacle Is The Way** - *Ryan Holiday* ★★
 
 ### Finance
 
