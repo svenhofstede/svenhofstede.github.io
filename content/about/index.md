@@ -22,23 +22,25 @@ I'm very comfortable building (web) applications in **Python** and **Java**. I'v
 
 I've helped in system design and development of internal data platforms used by data teams globally.
 
+I'm native speaker in both English and Dutch. 
+
+
 <div style="break-after:page"></div>
 
 ## Experience
 
-### ASML - Data engineer 
+#### ASML - Data engineer 
 
 *2023 - current*
 
 Helping ASML by building resilient and performant data pipelines using Databricks and PySpark, running on Azure cloud.
 
 
-### Nike - Lead Software engineer 
+#### Nike - Lead Software engineer 
 
 *2019 - 2023*
 
-Lead engineer of custom data pipeline-as-a-service solution for Nike
-Data & Analytics teams globally.
+Lead engineer of custom data pipeline-as-a-service solution for Nike Data & Analytics teams globally.
 
 * Design and implementation of (py)spark framework, built for extensibility
 * All data pipelines configured and scheduled via central API (Python,FastAPI)
@@ -46,30 +48,25 @@ Data & Analytics teams globally.
 * Data is stored on combination of S3/Hive and Databricks. Final datasets in Snowflake
 * Everything runs on self-managed, auto-scaling EKS clusters on AWS
 
-### Ravago - Senior Software engineer 
+#### Ravago - Senior Software engineer 
 
 *2017 - 2019*
 
-Development of new features of in-house ERP system based on Spring
-Boot
+Development of new features of in-house ERP system based on Spring Boot
 
 * Investigating bug reports and implementing fixes
 * Code reviews, technical analysis and review functional analysis
 * Lead administrator of multiple Kubernetes clusters
 * Automation of development pipelines using Bamboo and Jenkins
 
-### Johnson & Johnson - Big Data engineer 
+#### Johnson & Johnson - Big Data engineer 
 
 *2012 - 2017*
 
-* Set up Data lake environment in Cloudera cluster.
-* Develop ingestion mechanism into Data lake (CSV, Databases,SharePoint, REST, ..)
+* Develop ingestion mechanism into Data lake (CSV, Databases,SharePoint, REST, ..) in Cloudera cluster
 * Develop datamarts using Apache Spark (Scala and Python) and Hive/Impala.
 
 ## Education
 
 I completed my bachelor in Computer Science in 2012 at the Thomas More Colleage in Geel, Belgium
 
-## Languages
-
-I'm native speaker in both English and Dutch. 
