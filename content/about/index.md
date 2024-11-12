@@ -14,13 +14,15 @@ Senior+ software engineer with over 12 years of experience in both data and soft
 
 I have experience leading software engineering teams and building products that end users like to use. I enjoy being actively involved in the functional decision making of product design including talking to end users and other stakeholders.
 
-I'm expert level in building resilient and performant data pipelines in Apache (Py)Spark including running it in auto-scaling environments. I've worked with data warehouse tooling like Databricks, Hive and Snowflake for years. I'm very familiar with running and using scheduling tools like for example Airflow. 
+I'm expert level in building resilient and performant data pipelines in **Apache (Py)Spark** including running it in auto-scaling environments. I've worked with data warehouse tooling like **Databricks**, **Hive** and **Snowflake** for years. I'm very familiar with running and using scheduling tools like for example **Airflow**. 
 
-I'm comfortable in Linux environments and dealing with software containerization (including Docker and Kubernetes). I'm very experienced in cloud products offered by both Azure and AWS including S3, EKS, EC2, DynamoDB and how to automate setup of this using Terraform.
+I'm comfortable in **Linux** environments and dealing with software containerization (including **Docker** and **Kubernetes**). I'm very experienced in cloud products offered by both **Azure** and **AWS** including **S3**, **EKS**, **EC2**, **DynamoDB** and how to automate setup of this using **Terraform**.
 
-I'm very comfortable building (web) applications in Python and Java. I've worked on (and lead) multiple production grade applications. I understand the importance of CI/CD, automated testing, backwards compatibility, solid documentation and UX of the product.
+I'm very comfortable building (web) applications in **Python** and **Java**. I've worked on (and lead) multiple production grade applications. I understand the importance of **CI/CD**, **automated testing**, backwards compatibility, solid documentation and **UX** of the product.
 
 I've helped in system design and development of internal data platforms used by data teams globally.
+
+<div style="break-after:page"></div>
 
 ## Experience
 

@@ -10,6 +10,9 @@ languageCode = "en-us"
   dark = "off" 
 
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [menu]
   [[menu.main]]
     identifier = "posts"
