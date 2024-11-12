@@ -24,12 +24,12 @@ I've helped in system design and development of internal data platforms used by 
 
 ## Experience
 
-2023 - current **ASML** - Data engineer
+**ASML** - Data engineer *2023 - current*
 
 Helping ASML by building resilient and performant data pipelines using Databricks and PySpark, running on Azure cloud.
 
 
-2019 - 2023 **Nike** - Lead Software engineer
+**Nike** - Lead Software engineer *2019 - 2023*
 
 Lead engineer of custom data pipeline-as-a-service solution for Nike
 Data & Analytics teams globally.
@@ -40,7 +40,7 @@ Data & Analytics teams globally.
 * Data is stored on combination of S3/Hive and Databricks. Final datasets in Snowflake
 * Everything runs on self-managed, auto-scaling EKS clusters on AWS
 
-2017 - 2019 **Ravago** - Senior Software engineer
+**Ravago** - Senior Software engineer *2017 - 2019*
 
 Development of new features of in-house ERP system based on Spring
 Boot
@@ -50,7 +50,7 @@ Boot
 * Lead administrator of multiple Kubernetes clusters
 * Automation of development pipelines using Bamboo and Jenkins
 
-2012 - 2017 **Johnson & Johnson** - Big Data engineer
+**Johnson & Johnson** - Big Data engineer *2012 - 2017*
 
 * Set up Data lake environment in Cloudera cluster.
 * Develop ingestion mechanism into Data lake (CSV, Databases,SharePoint, REST, ..)
