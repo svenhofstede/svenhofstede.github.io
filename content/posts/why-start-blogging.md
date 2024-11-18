@@ -26,13 +26,3 @@ Writing a blog post forces you to really think something through. I spend most o
 #### Track your progress
 
 Over time I (hopefully) see my skill increase. A blog will be a nice journal that will stay here forever that nicely keeps track of this progress. It must feel good if you can at some point look back at older blog posts and see clear improvement in skills and writing.
-
-## Get help getting started
-
-I was fortunate to come across a guide created by John over at [simpleprogrammer.com](https://simpleprogrammer.com). He has developed a great [step-by-step email guide](https://simpleprogrammer.com/lp/create-your-blog-1/) that helps you to get started. 
-
-Twice a week, on Monday and Thursday, you will receive an email with simple instructions and tips. John helps you with coming up with content ideas, actually creating the blog itself, getting traffic to your blog and drilling in the most important aspect of proper successfull blogs... **consistency!**
-
-What I enjoyed most about the course is the low barrier of entry. Each step of the way is made easy and takes much less time then you might think. I was actually *looking forward* to getting the next mail so I can further develop my blog. 
-
-
