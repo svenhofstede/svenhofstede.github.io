@@ -5,7 +5,7 @@ menu:
     weight: 20
 ---
 
-* svenhofstede@gmail.com
+* info@svenhofstede.com
 * www.svenhofstede.com
 
 ## Summary
