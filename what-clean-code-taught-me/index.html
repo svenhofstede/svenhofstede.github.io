@@ -21,7 +21,7 @@
 </span></span><span style=display:flex><span><span style=color:#f92672>from</span> dog <span style=color:#f92672>import</span> Dog
 </span></span><span style=display:flex><span><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Person</span>(object):
 </span></span><span style=display:flex><span>    <span style=color:#e6db74>&#34;&#34;&#34;A representation of a person in 2D Land&#34;&#34;&#34;</span>
-</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> __init__(self, name):
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>__init__</span>(self, name):
 </span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>name <span style=color:#f92672>=</span> name
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>make_noise</span>(self):
@@ -29,14 +29,14 @@
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>DogAdapter</span>(object):
 </span></span><span style=display:flex><span>    <span style=color:#e6db74>&#34;&#34;&#34;Adapts the Dog class through encapsulation&#34;&#34;&#34;</span>
-</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> __init__(self, canine):
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>__init__</span>(self, canine):
 </span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>canine <span style=color:#f92672>=</span> canine
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>make_noise</span>(self):
 </span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;&#34;&#34;This is the only method that&#39;s adapted&#34;&#34;&#34;</span>
 </span></span><span style=display:flex><span>        <span style=color:#66d9ef>return</span> self<span style=color:#f92672>.</span>canine<span style=color:#f92672>.</span>bark()
 </span></span><span style=display:flex><span>
-</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> __getattr__(self, attr):
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>__getattr__</span>(self, attr):
 </span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;&#34;&#34;Everything else is delegated to the object&#34;&#34;&#34;</span>
 </span></span><span style=display:flex><span>        <span style=color:#66d9ef>return</span> getattr(self<span style=color:#f92672>.</span>canine, attr)
 </span></span><span style=display:flex><span>
